@@ -59,6 +59,15 @@ Example Command:
 
 After executing the framework, the output will display the dev and test F1 Scores for the specified task and approach.
 
+### Alternative using run.sh:
+
+./run.sh 'task' 'approach'
+
+Example Command:
+
+"./run.sh AS 3"
+
+
 ## Contact Information
 
 Feel free to reach out for questions or feedback:
