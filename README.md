@@ -49,8 +49,8 @@ To execute the framework, use the following command:
 
 "python3 main.py --t 'task' --a 'approach'"
 
-### Replace 'task' with either 'AS' (Argument Stance) or 'IP' (Image Persuasiveness), specifying the intended task.
-### Use 'approach' to denote the approach number. Approaches range from 1 to 5 for submissions and may include additional experiments (Approach 6 for AS and Approaches 6, 7 for IP).
-### Example Command:
+Replace 'task' with either 'AS' (Argument Stance) or 'IP' (Image Persuasiveness), specifying the intended task.
+Use 'approach' to denote the approach number. Approaches range from 1 to 5 for submissions and may include additional experiments (Approach 6 for AS and Approaches 6, 7 for IP).
+Example Command:
 
 python3 main.py --t AS --a 3
