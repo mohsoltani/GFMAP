@@ -19,7 +19,6 @@ The framework consists of three main models:
   
 ![Framework Design](framework.svg)
 
-
 ## Obtaining Data
 
 To access the necessary datasets, please follow these steps:
