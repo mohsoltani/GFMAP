@@ -5,7 +5,7 @@ This repository houses the official implementation of A General Framework for Mu
 
 ## Framework Design
 
-The framework consists of three main models:
+The framework, used for 5 submissions, consists of three main models:
 
 ### Model 1 and Model 2
 - Model 1 and Model 2 extract text and image features from each tweet as vectors of sizes `a` and `b`, respectively.
