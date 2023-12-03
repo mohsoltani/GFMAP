@@ -58,3 +58,10 @@ Example Command:
 "python3 main.py --t AS --a 3"
 
 After executing the framework, the output will display the dev and test F1 Scores for the specified task and approach.
+
+## Contact Information
+
+Feel free to reach out for questions or feedback:
+
+- Email: soltany.eng@gmail.com
+- Linkedin: [Mohammad Soltani](http://www.linkedin.com/in/mohammad-soltani-a1a27851)
