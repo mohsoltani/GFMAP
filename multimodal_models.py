@@ -1,9 +1,8 @@
 import pandas as pd
 import numpy as np
-from sklearn.preprocessing import MaxAbsScaler, MinMaxScaler
-from transformers import CLIPProcessor, CLIPModel
 from PIL import Image
-from transformers import ElectraTokenizer, ElectraModel, LayoutLMModel, LayoutLMTokenizer, ReformerModelWithLMHead, ReformerTokenizer, CamembertModel, CamembertTokenizer
+from sklearn.preprocessing import MaxAbsScaler, MinMaxScaler
+from transformers import ElectraTokenizer, ElectraModel, LayoutLMModel, LayoutLMTokenizer, ReformerModelWithLMHead, ReformerTokenizer, CamembertModel, CamembertTokenizer, CLIPProcessor, CLIPModel
 import torch
 from torchvision import models, transforms
 from torchvision.models.detection import fasterrcnn_mobilenet_v3_large_fpn, retinanet_resnet50_fpn_v2
