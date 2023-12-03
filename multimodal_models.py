@@ -191,6 +191,7 @@ def swin_v2_s_camembert_base(dataframe, images_path):
 
     return combined_features_transformed
 
+#using object detection methods for generating the third modality
 def swin_v2_s_camembert_base_OD(dataframe, images_path):
 
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
@@ -251,6 +252,7 @@ def swin_v2_s_camembert_base_OD(dataframe, images_path):
 
     return combined_features_transformed
 
+#using object detection methods for generating the third modality
 def convnext_small_re_OD(dataframe, images_path):
 
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
