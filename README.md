@@ -33,3 +33,13 @@ To access the necessary datasets, please follow these steps:
     - This results in two folders:
         - `data/images/image/`
         - `test/data/images/image/`
+## Requirements
+
+### Python Version
+- Python 3.10.11
+
+### Installing Dependencies
+To install the required packages, run the following command:
+
+```bash
+pip install -r requirements.txt
