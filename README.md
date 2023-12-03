@@ -59,7 +59,7 @@ Example Command:
 
 After executing the framework, the output will display the dev and test F1 Scores for the specified task and approach.
 
-### Alternative using run.sh:
+### Use alternatively run.sh Script:
 
 ./run.sh 'task' 'approach'
 
