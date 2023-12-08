@@ -1,7 +1,7 @@
 # A General Framework for Multimodal Argument Persuasiveness Classification of Tweets
 
 ## Introduction
-This repository houses the official implementation of A General Framework for Multimodal Argument Persuasiveness Classification of Tweets, alongside the paper accepted for presentation at the Argument Mining workshop at the EMNLP 2023.
+This repository houses the official implementation of A General Framework for Multimodal Argument Persuasiveness Classification of Tweets, alongside the [paper] (https://aclanthology.org/2023.argmining-1.15.pdf) accepted for presentation at the Argument Mining workshop at the EMNLP 2023.
 
 In the ImageArg shared task at ArgMining 2023, the classification of tweet stances using both text and images and the prediction of image impact on tweet persuasiveness were aimed for. The approach of the following framework secured 3rd team, achieving F1 scores of 0.8273 (argument stance classification) and 0.5281 (image persuasiveness classification), and emerged as the top performer across both tasks when considering overall performance.
 
